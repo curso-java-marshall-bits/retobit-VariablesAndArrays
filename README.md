@@ -14,8 +14,18 @@ Esto creará una copia del repositorio en tu perfil de Github.
 
 ## Clona el repo en tu computadora
 
-Ahora hay que descargarse el proyecto en tu computadora. 
-Pulsa en "code" para ver la URL del repositorio y cópiala:
+Ahora hay que descargarse el proyecto en tu computadora.
+
+### 1. Asegúrate de que estás en la URL de TU copia del repositorio
+   
+
+Si la URL es esta: https://github.com/curso-java-marshall-bits/retobit-VariablesAndArrays **NO ES CORRECTO**.
+    
+
+Donde aparece 'curso-java-marshall-bits' debería aparecer tu nombre de usuario. Haz click en tu perfil y mira tus repositorios para comprobar si hiciste el fork. En caso contrario vuelve al paso anterior. 
+
+
+### 2. Pulsa en "code" para ver la URL del repositorio y cópiala
 
 ![clone](public/img2.png)
 
@@ -31,7 +41,7 @@ git clone https://aqui.debes.pegar.la.url
 
 Ahora se va a crear un nuevo directorio con el nombre del retobit.
 
-¡Ya puedes abrir este reto en IntelliJ!
+### 3. ¡Ya puedes abrir este reto en IntelliJ!
 
 # Instrucciones
 
