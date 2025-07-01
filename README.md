@@ -47,7 +47,7 @@ Ahora se va a crear un nuevo directorio con el nombre del retobit.
 
 Este reto consiste en declarar distintas variables. Abre el archivo *VariablesAndArrays* que está ubicado dentro de **src/main/java**. Allí tienes una serie de métodos con las instrucciones encima para cada uno de los retos.
 
-En el caso de que quieras realizad pruebas puedes hacerlo al final del archivo en el método **main**:
+En el caso de que quieras realizar pruebas puedes hacerlo al final del archivo en el método **main**:
 
 ````java
 public static void main(String[] args) {
