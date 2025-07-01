@@ -74,6 +74,8 @@ Pulsa en cualquiera de los tests que has fallado y mira el mensaje de la derecha
 
 Si quieres ver una posible solución para el retobit que pasa todos los tests puedes mirar la rama *solution* dentro del repositorio.
 
+![rama solution](public/img4.png)
+
 Ten en cuenta que hay muchas formas de resolver los ejercicios y la tuya puede pasar los tests iguales, pero ser completamente distinta a la solución. No significa que la tuya esté mal. Compara los resultados y decide cuál te gusta más o te parece mas legible.
 
 ## Entrega
