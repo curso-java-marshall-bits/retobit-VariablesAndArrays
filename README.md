@@ -1,4 +1,4 @@
-# Retobit de Marshall: Declaración de variables 🤖
+# RetoBit: Declaración de variables y arrays 🤖
 
 En este ejercicio, vamos a practicar la declaración de variables en JAVA. Además, también te será útil para trabajar con git y github, herramientas fundamentales en el desarrollo de software.
 
@@ -88,4 +88,4 @@ Mucha suerte con el reto. Te mando un abrazo y ¡Sigamos desarrollando! 🫂
 
 [marshall-bits.dev](http://marshall-bits.dev)
 
-*Nota: Estos retos pertenecen al curso de Marshall Bits de Java para desarrolladores junior. Cualquier uso fuera de este contexto debe estar autorizado explícitamente. Si quieres usar estos ejercicios ponte en contacto conmigo a través de mis redes sociales (visita mi página para [más información](http://marshall-bits.dev)).* 
+*Nota: Estos retos pertenecen al curso de Marcel Bosch de Java para desarrolladores junior. Cualquier uso fuera de este contexto debe estar autorizado explícitamente. Si quieres usar estos ejercicios ponte en contacto conmigo a través de mis redes sociales (visita mi página para [más información](http://marshall-bits.dev)).* 
