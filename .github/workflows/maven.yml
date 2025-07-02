@@ -26,6 +26,7 @@ jobs:
       - name: Compile and execute tests
         run: |
           mvn -B package # compile the code and execute all the tests
+          EXIT_CODE=$? 
           
           if [ $EXIT_CODE -eq 0 ]; then
           echo "### ✅ ¡Todos los tests han pasado correctamente!" >> $GITHUB_STEP_SUMMARY
