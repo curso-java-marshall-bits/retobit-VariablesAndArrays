@@ -80,9 +80,26 @@ Ten en cuenta que hay muchas formas de resolver los ejercicios y la tuya puede p
 
 ## Entrega
 
+Realiza un commit con los cambios desde la terminal:
+
+1. Añade todos los cambios
+````commandline
+git add .
+````
+
+2. Haz el commit con el mensaje
+````commandline
+git commit -m "retobit finalizado"
+````
+
+3. Haz un push
+````commandline
+git push origin main
+````
+
 Debes realizar una pull request para entregar el ejercicio. Abre el link del repositorio en github y haz click en la pestaña *pull requests*.
 
-Selecciona *New pull request*, *Create pull request*. Esto hará que yo pueda verlo y revisarlo en caso de que haya fallado algún test para poder darte feedback.
+Selecciona *New pull request*, *Create pull request* y confírmala. Esto hará que yo pueda verlo y revisarlo en caso de que haya fallado algún test para poder darte feedback.
 
 Mucha suerte con el reto. Te mando un abrazo y ¡Sigamos desarrollando! 🫂
 
