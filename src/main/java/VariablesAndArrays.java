@@ -6,11 +6,10 @@ public class VariablesAndArrays {
      * @return La variable con el int.
      */
     public int declareInt() {
-
         // Tu código aquí
-
+        int age = 30;
         // Sustituye el 0 por tu variable ¡pero no borres el return!
-        return 0;
+        return age;
     }
 
     /**
@@ -20,11 +19,10 @@ public class VariablesAndArrays {
      * @return La variable con su boolean.
      */
     public boolean declareBoolean() {
-
         // Tu código aquí
-
+        boolean isActive = true;
         // Sustituye el false por tu variable
-        return false;
+        return isActive;
     }
 
     /**
@@ -34,12 +32,10 @@ public class VariablesAndArrays {
      * @return La variable 'initial'.
      */
     public char declareChar() {
-
         // Tu código aquí
-
-
+        char initial = 'J';
         // Sustituye el espacio por tu variable
-        return ' ';
+        return initial;
     }
 
     /**
@@ -49,11 +45,10 @@ public class VariablesAndArrays {
      * @return El array 'names'.
      */
     public String[] declareStringArray() {
-
         // Tu código aquí
-
+        String[] names = {"Ana", "Luis", "Marta"};
         // Sustituye new String[0] por la variable 'names'
-        return new String[0];
+        return names;
     }
 
 
