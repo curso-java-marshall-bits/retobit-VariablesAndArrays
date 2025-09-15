@@ -38,7 +38,7 @@ public class VariablesAndArrays {
         // Tu código aquí
         char initial = 'J';
         // Sustituye el espacio por tu variable
-        return 'J';
+        return initial;
     }
 
     /**
