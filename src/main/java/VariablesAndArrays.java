@@ -8,9 +8,9 @@ public class VariablesAndArrays {
     public int declareInt() {
 
         // Tu código aquí
-
+        int age = 30;
         // Sustituye el 0 por tu variable ¡pero no borres el return!
-        return 0;
+        return age;
     }
 
     /**
@@ -22,9 +22,9 @@ public class VariablesAndArrays {
     public boolean declareBoolean() {
 
         // Tu código aquí
-
+        boolean isActive = true;
         // Sustituye el false por tu variable
-        return false;
+        return isActive;
     }
 
     /**
@@ -36,10 +36,9 @@ public class VariablesAndArrays {
     public char declareChar() {
 
         // Tu código aquí
-
-
+        char initial = 'J';
         // Sustituye el espacio por tu variable
-        return ' ';
+        return 'J';
     }
 
     /**
@@ -51,13 +50,30 @@ public class VariablesAndArrays {
     public String[] declareStringArray() {
 
         // Tu código aquí
-
+        String[] names = {"Ana","Luis","Marta"};
         // Sustituye new String[0] por la variable 'names'
-        return new String[0];
+        return names;
     }
 
 
     public static void main(String[] args) {
         // Puedes hacer pruebas por aquí 🤖
+        VariablesAndArrays vars = new VariablesAndArrays();
+
+        // Guardamos el valor devuelto en variables locales
+        int age = vars.declareInt();
+        boolean isActive = vars.declareBoolean();
+        char initial = vars.declareChar();
+        String[] names = vars.declareStringArray();
+
+        // Mostramos los resultados
+        System.out.println("Edad: " + age);
+        System.out.println("Activo: " + isActive);
+        System.out.println("Inicial: " + initial);
+
+        System.out.println("Nombres:");
+        for (String nombre : names) {
+            System.out.println("- " + nombre);
+        }
     }
 }
