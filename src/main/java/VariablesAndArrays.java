@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class VariablesAndArrays {
     /**
      * Reto 1: Declaración de una variable int.
@@ -8,9 +10,9 @@ public class VariablesAndArrays {
     public int declareInt() {
 
         // Tu código aquí
-
+        int age = 30;
         // Sustituye el 0 por tu variable ¡pero no borres el return!
-        return 0;
+        return age;
     }
 
     /**
@@ -20,11 +22,14 @@ public class VariablesAndArrays {
      * @return La variable con su boolean.
      */
     public boolean declareBoolean() {
+        int A= 11;
+        int B= 15;
 
+        boolean Numero = A<B;
         // Tu código aquí
 
         // Sustituye el false por tu variable
-        return false;
+        return Numero;
     }
 
     /**
@@ -36,10 +41,10 @@ public class VariablesAndArrays {
     public char declareChar() {
 
         // Tu código aquí
-
+        char initial = 'J';
 
         // Sustituye el espacio por tu variable
-        return ' ';
+        return initial;
     }
 
     /**
@@ -50,10 +55,13 @@ public class VariablesAndArrays {
      */
     public String[] declareStringArray() {
 
-        // Tu código aquí
+
+        String[] names = { "Ana", "Luis", "Marta" };
+
+    // Tu código aquí
 
         // Sustituye new String[0] por la variable 'names'
-        return new String[0];
+        return names;
     }
 
 
